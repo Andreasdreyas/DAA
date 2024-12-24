@@ -5,7 +5,7 @@ pip==24.3.1
 pydeck==0.9.1
 networkx==3.3
 math
-folium
+folium==0.19.2
 streamlit_folium
 st_folium
 folium.plugins
